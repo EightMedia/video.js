@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "grunt-cli": "~0.1.0",
-    "grunt": "~0.4.0",
+    "grunt": "~1.6.3",
     "grunt-contrib-jshint": "~0.4.3",
     "grunt-contrib-watch": "~0.1.4",
     "grunt-contrib-qunit": "~0.2.1",
@@ -32,7 +32,7 @@
     "grunt-s3": "~0.2.0-alpha",
     "semver": "~1.1.4",
     "grunt-contrib-cssmin": "~0.6.0",
-    "uglify-js": "~2.3.6",
+    "uglify-js": "~3.19.3",
     "grunt-contrib-less": "~0.6.4",
     "grunt-karma": "~0.4.4",
     "karma-qunit": "~0.0.2"
